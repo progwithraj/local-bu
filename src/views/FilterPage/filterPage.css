@@ -1,0 +1,23 @@
+.scope-filters {
+  flex-direction: column;
+  display: block;
+}
+
+.typography-title-header {
+  margin-bottom: "4px";
+}
+
+.typography-title-dropdowns {
+  margin: "0px 0px 0px 10px";
+  font-size: "12px";
+}
+
+.col-style {
+  margin: "0px 10px 0px 10px";
+}
+
+.layout-header {
+  background-color;: "#fff",
+  height: "110px", 
+  width: "100%" 
+}

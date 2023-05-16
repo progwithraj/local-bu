@@ -1,0 +1,29 @@
+.topbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  background: "#E5E5E5";
+  width: 100%;
+}
+
+.topbar-avatar {
+  margin-top: 16px;
+  margin-bottom: 19px;
+  margin-left: 0px;
+  border-width: 2.8px;
+}
+
+.topbar-text {
+  font-family: "Inter";
+  font-size: "24rem";
+  color: "#464B54";
+}
+
+.topbar-divider {
+  background-color: "white";
+  width: "100%";
+  height: "50px";
+  box-shadow: "0 20px 20px -20px #333";
+  margin: "-50px 0px 0px 10px";
+}
